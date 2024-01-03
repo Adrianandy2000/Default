@@ -1,0 +1,29 @@
+div
+{
+    background-color: #91991cc4;
+}
+
+body div
+{
+    padding: 10px; 
+    margin: 15px;
+}  
+
+.obiekt
+{
+    max-width: 200px;
+}
+
+input
+{
+    width: -webkit-fill-available; 
+    margin: 5px;
+}
+
+.in
+{
+    padding: 2px; 
+    margin: 0; 
+    display: flex; 
+    background-color: unset;
+}

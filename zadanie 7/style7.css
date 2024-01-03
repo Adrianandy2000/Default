@@ -1,0 +1,57 @@
+html{
+	height: 100%;
+}
+body
+{
+    background: darkgray;
+}
+
+.flex
+{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.circle
+{
+    background: lightblue;
+    border: 3px solid #999999;
+    border-radius: 100%;
+    height: 55vw;
+    width: 40%;
+    justify-content: space-evenly;
+    text-align: center;
+	font-size: 3vw;
+	position: relative;
+}
+
+.okno
+{
+    border-radius: 1%;
+    border: #cccccc solid 3px;
+    background: #222222;
+    display: flex;
+    align-items: center;
+    margin: 50px;
+    width: 100%;
+	position: absolute;
+	min-height: 10%;
+	bottom: 0;
+	padding: 10px;
+}
+
+.okno > p
+{
+    font-style: italic;
+    color: mintcream;
+    width: 20%;
+    margin-bottom: 4vh;
+	font-size: 3vw;
+}
+
+img
+{
+    width: 30%;
+    margin: 50px;
+}

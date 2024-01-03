@@ -1,0 +1,39 @@
+#menu {
+	background-color: #9ba2ab;
+	width: 100px;
+	height: 80px;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	color: #1d2124;
+	font-family: LeagueGothic-Regular;
+	display: flex;
+}
+body {
+	background-color: belge;
+	height: 2000px;
+}
+h1 {
+	font-style: italic;
+	font-family: LeagueGothic-Regular;
+	margin: 20px;
+}
+@font-float {
+	font-family: "LeagueGothic-Regular";
+	src: url("LeagueGothic-Regular");
+}
+a {
+	font-size: 20px;
+	margin: 20px;
+	color: #1d2124;
+	font-family: "LeagueGothic-Regular";
+}
+nav {
+	margin-top: 21px;
+	position: absolute;
+	right: 0px;
+}
+img {
+	height: 60px;
+	margin 10 px;
+}

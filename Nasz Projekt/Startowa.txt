@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Description of your website">
+  <link rel="stylesheet" href="style3.css" type="text/css">
+  <title>Nasza Strona</title>
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="Nasza-strona.html">Strona Główna</a></li>
+        <li><a href="O-grach.html">O grach</a>
+          <ul>
+            <li><a href="League-of-Legend.html">League of Legends</a></li>
+            <li><a href="Overwatch.html">Overwatch</a></li>
+            <li><a href="Gta.html">Gta V</a></li>
+          </ul>
+        </li>
+        <li><a href="Nasze-propozycje.html">Nasze propozycje</a></li>
+        <li><a href="Turnieje.html">Turnieje</a></li>
+        <li><a href="Aktualnosci.html">Aktualności</a>
+          <ul>
+            <li><a href="League-of-Legend-wiki.html">League of Legends wiki</a></li>
+            <li><a href="Overwatch-wiki.html">Overwatch wiki</a></li>
+            <li><a href="Gta-wiki.html">Gta V wiki</a></li>
+          </ul>
+        </li>
+        <li><a href="Wiecej.html">Więcej</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <div class="img"></div>
+    <div id="tytul">
+      <h1><center>GRAciarnia</center></h1>
+    </div>
+    <div id="tresc">
+      <h2><center><b>Czym jest GRAciarnia?</b></center></h2>
+      <p><center>GRAciarnia jest dedykowana dla miłośników gier komputerowych. Dzięki naszej stronie będziesz w stanie znaleźć nowe gry czy też być na bieżąco z newsami, aktualizacjami, turniejami swoich ulubionych produkcji.</center></p>
+      <h2><center><b>Co możemy zaoferować?</b></center></h2>
+      <p><center>GRAciarnia jest prostą w obsłudze. Do przyjemnego korzystania umożliwia czytelny interfejs, dzięki wsparciu zespołu z każdą aktualizacją dodajemy nowe opcje. Jesteśmy zawsze otwarci na sugestje od naszych użytkowników.</center></p>
+    </div>
+    <div id="podpis">
+      <p>Admini grupy GRAciarnia ;)</p>
+    </div>
+  </main>
+
+  <footer>
+    <div id="stopka">
+      <div id="design">Strona Stworzona przy pomocy Administratora z Teb</div>
+    </div>
+  </footer>
+</body>
+</html>

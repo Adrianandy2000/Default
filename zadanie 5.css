@@ -1,0 +1,58 @@
+body
+{
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-Style
+{
+    background: rgba(90, 99, 86, 0.56);
+    width: max-content;
+    padding: 2vh 4vw;
+    border-style: solid;
+    border-radius: 5%;
+    justify-content: center;
+}
+
+.form-Style > *
+{
+    display: flex;
+}
+
+.form-Style *
+{
+    margin: 1vh 7vw;
+}
+
+.sekcja2 input
+{
+    background: #cccccc;
+    border: black solid 1px;
+    width: 25vw;
+    min-width: 20px;
+}
+
+button
+{
+    background: #868389;
+    color: black;
+    border: black solid 1px;
+    border-radius: 15%;
+    padding: 5px;
+	font-size: 3vw;
+}
+
+strong
+{
+    width: -webkit-fill-available;
+	font-size: 3vw;
+}
+ .sekcja2
+{
+    width: -webkit-fill-available;
+    justify-content: center;
+    display: flex;
+}
